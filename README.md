@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a second year student persuing a Bachelor of Computer and Information Sciences degree at the IIE Varsity College, passionate about the intersection of technology and problem solving. I am currently expanding my expertise in C# and database methodologies.
+I am a third year student persuing a Bachelor of Computer and Information Sciences degree at the IIE Varsity College, passionate about the intersection of technology and problem solving. I am currently expanding my expertise in C# and database methodologies.
 
 
 ## 🌐 Socials:
